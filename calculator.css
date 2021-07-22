@@ -1,0 +1,34 @@
+body{
+    background-image: url("background.jpg");
+    height: 100%;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+}
+
+div{
+    text-align: center;
+    padding-top: 16%;
+    font-size: 0%;
+}
+
+input{
+    width: 222px;
+    height: 80px;
+    border-radius: 5px;
+    border: top 100%;
+    border: none;
+    color: black;
+    font-size: large;
+}
+.calc{
+    display: inline;
+    border: none;
+    width: 55px;
+    height: 60px;
+    background-color:grey;
+    color: white;
+    font-size: 20px;
+    
+}
+
